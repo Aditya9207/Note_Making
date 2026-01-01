@@ -47,7 +47,10 @@ Frontend runs on:http://localhost:3000
 cd frontend
 npm run build
 
-
+<img width="1919" height="973" alt="Image" src="https://github.com/user-attachments/assets/13e93600-d48d-4047-a8cc-f7dc1d3a5242" />
+<img width="1912" height="948" alt="Image" src="https://github.com/user-attachments/assets/701b147e-5bc2-4231-83b1-da9767bba5dc" />
+<img width="1919" height="973" alt="Image" src="https://github.com/user-attachments/assets/db386109-a65f-462c-9240-d83ce4b65e7c" />
+<img width="1919" height="972" alt="Image" src="https://github.com/user-attachments/assets/342f6158-90f1-4ae3-8f8e-19d480f39804" />
 
 
 
